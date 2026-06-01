@@ -1,0 +1,1 @@
+Este es un repositorio para practicar comandos basicos del GIT para creación de ramas, comentarios usando commit y actualización entre ramas.
